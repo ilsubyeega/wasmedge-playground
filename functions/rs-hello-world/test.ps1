@@ -1,0 +1,1 @@
+wasmedge target/wasm32-wasi/debug/rs-hello-world.wasm first second thrid

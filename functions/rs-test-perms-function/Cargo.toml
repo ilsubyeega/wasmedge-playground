@@ -1,0 +1,10 @@
+[package]
+name = "rs-test-perms-function"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasmedge_wasi_socket = "0.4.1"
+wasmedge_http_req  = "0.8.1"
